@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 
 ## AutoML module
 
-'''
+```
 $ cd src
 $ python automl_train.py
-'''
+```
